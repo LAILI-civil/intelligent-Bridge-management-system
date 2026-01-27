@@ -54,7 +54,7 @@ Run evaluation/testing. You can test different trained methods by changing the m
 
 ## Citation
 
-If you use this repository in your research, please cite the related paper (add bibtex here).
+AI-assisted Bridge Management System based on Deep Reinforcement Learning with Expert Demonstrations 
 
 ## Keywords
 
