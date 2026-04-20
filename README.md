@@ -54,9 +54,14 @@ Run evaluation/testing. You can test different trained methods by changing the m
 Li LAI, You DONG*, Aijun Wang, Dan M. Frangopol
 
 Affiliations:  
-State Key Laboratory of Climate Resilience for Coastal Cities, Department of Civil and Environmental Engineering, The Hong Kong Polytechnic University, Hong Kong, China  
-Alibaba Group, Hangzhou, China  
-Department of Civil and Environmental Engineering, ATLSS Engineering Research Center, Lehigh University, Bethlehem, Pennsylvania, USA
+State Key Laboratory of Climate Resilience for Coastal Cities, Department of Civil and Environmental Engineering, The Hong Kong Polytechnic University, Hong Kong, China (Li LAI, You DONG*)  
+Alibaba Group, Hangzhou, China (Aijun Wang)  
+Department of Civil and Environmental Engineering, ATLSS Engineering Research Center, Lehigh University, Bethlehem, Pennsylvania, USA (Dan M. Frangopol)
+
+**Paper link:** [https://doi.org/10.1016/j.autcon.2026.106934](https://doi.org/10.1016/j.autcon.2026.106934)
+
+**Citation:**  
+Lai, L., Dong, Y., Wang, A., & Frangopol, D. M. (2026). AI-assisted bridge management system using deep reinforcement learning with expert demonstrations. *Automation in Construction*, 187, 106934.
 
 ## Keywords
 
