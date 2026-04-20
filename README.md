@@ -50,7 +50,7 @@ Run evaluation/testing. You can test different trained methods by changing the m
 
 ## Related Paper
 
-**AI-assisted Bridge Management System based on Deep Reinforcement Learning with Expert Demonstrations**  
+**AI-assisted Bridge Management System Using Deep Reinforcement Learning with Expert Demonstrations**  
 Li LAI, You DONG*, Aijun Wang, Dan M. Frangopol
 
 Affiliations:  
